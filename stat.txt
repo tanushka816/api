@@ -1,0 +1,6 @@
+14.05.2018
+bitinn : 240
+hsoft : 80
+lxc : 145666
+marcan : 34
+
